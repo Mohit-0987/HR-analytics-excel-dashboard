@@ -79,7 +79,7 @@ Users can dynamically filter the dashboard to explore different scenarios.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Dash Board.png)
+![Dashboard](Dash%20Board.png)
 
 ---
 
