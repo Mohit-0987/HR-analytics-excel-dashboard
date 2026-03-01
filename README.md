@@ -98,6 +98,6 @@ Users can dynamically filter the dashboard to explore different scenarios.
 ---
 
 ## 👤 Author
-**Mohit Kumar**
+**Mohit Kumar Panigrahi**
 
 ---
